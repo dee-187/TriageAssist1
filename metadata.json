@@ -1,0 +1,5 @@
+{
+  "name": "TriageAssist",
+  "description": "A healthcare patient intake and early triage support platform.",
+  "requestFramePermissions": []
+}
